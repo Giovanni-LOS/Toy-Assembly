@@ -1,0 +1,15 @@
+# ninja log v5
+0	30	1696549316923158282	CMakeFiles/Toy_Assembly.dir/src/output.c.o	fabc5e0baa555d0
+16	34	1696551088129578700	Toy_Assembly	6d2fd537d1d58623
+1	88	1696509871853452800	CMakeFiles/Toy_Assembly.dir/src/input.c.o	100e6fbb611755ba
+0	16	1696551088112911718	CMakeFiles/Toy_Assembly.dir/src/logic_op.c.o	ed6d9c92d8400241
+0	12	1696518307583334267	build.ninja	675e4e9a7b0c1740
+0	19	1696550122851357761	CMakeFiles/Toy_Assembly.dir/src/control_op.c.o	3d9830b57febe04e
+0	30	1696549316923158282	CMakeFiles/Toy_Assembly.dir/src/math_op.c.o	dabe0c08024ccf99
+0	38	1696431872266769178	CMakeFiles/Toy_Assembly.dir/main.c.o	f641ece9e8706c22
+1	68	1696548656851957837	CMakeFiles/Toy_Assembly.dir/src/main.c.o	aa1a60e07200bf3
+0	15	1696550122848024364	CMakeFiles/Toy_Assembly.dir/src/mem_op.c.o	49b0abec78e9a0a5
+0	16	1696551478833626495	CMakeFiles/Toy_Assembly.dir/src/mem_op.c.o	49b0abec78e9a0a5
+16	36	1696551478853626873	Toy_Assembly	6d2fd537d1d58623
+0	15	1696551523007794368	CMakeFiles/Toy_Assembly.dir/src/mem_op.c.o	49b0abec78e9a0a5
+15	33	1696551523024461351	Toy_Assembly	6d2fd537d1d58623
